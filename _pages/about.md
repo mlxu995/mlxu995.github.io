@@ -40,17 +40,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Multi-class AUC Optimization for Robust Small-footprint Keyword Spotting with Limited Training Data](https://github.com), Xu Menglong, Li Shengqiang, Liang Chengdong, Zhang Xiao-Lei, **INTERSPEECH 2022**
-- [Transformer-based end-to-end speech recognition with local dense synthesizer attention](https://github.com), Xu Menglong, Li Shengqiang, Zhang Xiao-Lei, **ICASSP 2021**
-- [Depthwise separable convolutional resnet with squeeze-and-excitation blocks for small-footprint keyword spotting](https://github.com), Xu Menglong, Zhang Xiao-Lei, **INTERSPEECH 2020**
-- [Wekws: A production first small-footprint end-to-end keyword spotting toolkit](https://github.com), Wang Jie, Xu Menglong, Hou Jingyong, Zhang Binbin, Zhang Xiao-Lei, Xie Lei, Pan Fuping, **ICASSP 2023**
-- [AUC optimization for deep learning-based voice activity detection](https://github.com), Zhang Xiao-Lei, Xu Menglong, **EURASIP 2022**
-- [Transformer-based end-to-end speech recognition with residual gaussian-based self-attention](https://github.com), Liang Chengdong, Xu Menglong, Zhang Xiao-Lei, **INTERSPEECH 2021**
-- [Efficient conformer-based speech recognition with linear attention](https://github.com), Li Shengqiang, Xu Menglong, Zhang Xiao-Lei, **APSIPA 2021**
-- [Conformer-based end-to-end speech recognition with rotary position embedding](https://github.com), Li Shengqiang, Xu Menglong, Zhang Xiao-Lei, **APSIPA 2021**
-- [TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch](https://github.com), Song Xingchen, Liang Chengdong, Zhang Binbin, Zhang Pengshen, Wang ZiYu, Ma Youcheng, Xu Menglong, Wang Lin, Wu Di, Pan Fuping, others, **arXiv 2024**
-- [Libri-adhoc40: A dataset collected from synchronized ad-hoc microphone arrays](https://github.com), Guan Shanzheng, Liu Shupei, Chen Junqi, Zhu Wenbo, Li Shengqiang, Tan Xu, Yang Ziye, Xu Menglong, Chen Yijiang, Liang Chengdong, others, **APSIPA 2021**
+
+
+- [Multi-class AUC Optimization for Robust Small-footprint Keyword Spotting with Limited Training Data](https://arxiv.org/abs/2107.05859), Xu Menglong, Li Shengqiang, Liang Chengdong, Zhang Xiao-Lei, **INTERSPEECH 2022**, [Code](https://github.com/mlxu995/Multi-class-AUC-loss)
+- [Transformer-based end-to-end speech recognition with local dense synthesizer attention](https://arxiv.org/abs/2010.12155), Xu Menglong, Li Shengqiang, Zhang Xiao-Lei, **ICASSP 2021**, [Code](https://github.com/mlxu995/multihead-LDSA)
+- [Depthwise separable convolutional resnet with squeeze-and-excitation blocks for small-footprint keyword spotting](https://arxiv.org/abs/2004.12200), Xu Menglong, Zhang Xiao-Lei, **INTERSPEECH 2020**
+- [Wekws: A production first small-footprint end-to-end keyword spotting toolkit](https://arxiv.org/pdf/2210.16743.pdf), Wang Jie, Xu Menglong, Hou Jingyong, Zhang Binbin, Zhang Xiao-Lei, Xie Lei, Pan Fuping, **ICASSP 2023**, [Code](https://github.com/wenet-e2e/wekws)
+- AUC optimization for deep learning-based voice activity detection, Zhang Xiao-Lei, Xu Menglong, **EURASIP 2022**
+- Transformer-based end-to-end speech recognition with residual gaussian-based self-attention, Liang Chengdong, Xu Menglong, Zhang Xiao-Lei, **INTERSPEECH 2021**
+- [Efficient conformer-based speech recognition with linear attention](https://arxiv.org/abs/2104.06865), Li Shengqiang, Xu Menglong, Zhang Xiao-Lei, **APSIPA 2021**
+- [Conformer-based end-to-end speech recognition with rotary position embedding](https://arxiv.org/abs/2107.05907), Li Shengqiang, Xu Menglong, Zhang Xiao-Lei, **APSIPA 2021**
+- TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch, Song Xingchen, Liang Chengdong, Zhang Binbin, Zhang Pengshen, Wang ZiYu, Ma Youcheng, Xu Menglong, Wang Lin, Wu Di, Pan Fuping, others, **arXiv 2024**
+- Libri-adhoc40: A dataset collected from synchronized ad-hoc microphone arrays, Guan Shanzheng, Liu Shupei, Chen Junqi, Zhu Wenbo, Li Shengqiang, Tan Xu, Yang Ziye, Xu Menglong, Chen Yijiang, Liang Chengdong, others, **APSIPA 2021**
 
 
 
